@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18542#How-to-Cook-Fish
 gutenberg_issued: '2006-06-09'
 gutenberg_type: Text
 identifiers:
